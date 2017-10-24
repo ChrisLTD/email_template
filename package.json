@@ -1,7 +1,7 @@
 {
     "name": "email_template",
     "version": "1.0.0",
-    "description": "This is the project template I start with when creating new HTML email template.",
+    "description": "This is the project template I start with when creating a new HTML email template.",
     "main": "gulpfile.js",
     "scripts": {
       "dev": "yarn run gulp",
