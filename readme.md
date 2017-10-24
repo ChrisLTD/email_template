@@ -25,3 +25,4 @@ yarn dev
 ## Credits
 * [Gulp JS](http://gulpjs.com)
 * [Email Framework](https://github.com/g13nn/Email-Framework)
+* [Responsive Email Patterns](http://responsiveemailpatterns.com)
