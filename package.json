@@ -1,5 +1,5 @@
 {
-    "name": "html_email_template",
+    "name": "email_template",
     "version": "1.0.0",
     "description": "This is the project template I start with when creating new HTML email template.",
     "main": "gulpfile.js",
@@ -9,14 +9,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/ChrisLTD/html_email_template.git"
+      "url": "https://github.com/ChrisLTD/email_template.git"
     },
     "author": "Chris Johnson",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/ChrisLTD/html_email_template/issues"
+      "url": "https://github.com/ChrisLTD/email_template/issues"
     },
-    "homepage": "https://github.com/ChrisLTD/html_email_template",
+    "homepage": "https://github.com/ChrisLTD/email_template",
     "devDependencies": {
       "gulp": "^3.9.1",
       "gulp-connect": "^3.2.2",

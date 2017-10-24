@@ -1,5 +1,5 @@
-# Chris Johnson's HTML Email Template
-### Version 1.0.0 | By [Chris Johnson](http://chrisltd.com) | https://github.com/ChrisLTD/html_email_template
+# Chris Johnson's Email Template
+### Version 1.0.0 | By [Chris Johnson](http://chrisltd.com) | https://github.com/ChrisLTD/email_template
 
 This is the project template I start with when creating new HTML email. It uses Gulp Connect for live reloading during development.
 
