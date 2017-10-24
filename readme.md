@@ -11,7 +11,7 @@ This is the project template I start with when creating new HTML email. It uses 
 brew install yarn
 ```
 
-### 2. Install node and bower modules:
+### 2. Install node:
 
 ```
 yarn install
